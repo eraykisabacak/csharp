@@ -10,20 +10,11 @@ using System.Windows.Forms;
 
 namespace Diger_Forma_Bilgi_Aktarma
 {
-    public partial class Form1 : Form
+    public partial class Form2 : Form1
     {
-        public Form1()
+        public Form2()
         {
             InitializeComponent();
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            Form2 fr2 = new Form2();
-     
-
-            fr2.label1.Text = textBox1.Text.ToString();
-            fr2.Show();
         }
     }
 }
