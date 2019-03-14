@@ -11,3 +11,5 @@
 # 5 - 5'e Bölünen 7'ye Bölünemeyen Sayılar
 
 # 6 - Diziyi Tersine Çevirme
+
+# 7 - Uygulama Desing 2
