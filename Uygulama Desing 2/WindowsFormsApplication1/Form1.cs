@@ -164,7 +164,7 @@ namespace WindowsFormsApplication1
 
                 double sonuc2 = (sayi1 - sayi2);
 
-                label4.Text = "Sonuc " + sonuc2.ToString();
+                label4.Text = "Sonuc = " + sonuc2.ToString();
 
             }
             if (secim.Equals("carp"))
