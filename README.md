@@ -13,3 +13,5 @@
 # 6 - Diziyi Tersine Çevirme
 
 # 7 - Uygulama Desing 2
+
+# 8 - Uygulama 4 
