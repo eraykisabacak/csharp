@@ -17,3 +17,7 @@
 # 8 - Uygulama 4 
 
 # 9 - Sender Çift Bulma Oyunu 
+
+# 10 - LRE Algroitması
+
+## aaabbccdddd -> 3a 2b 2c 4d
